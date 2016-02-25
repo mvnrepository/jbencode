@@ -1,0 +1,1 @@
+Stream Encoder / Decoder for Bencode.  For more information on bencode, see the Wikipedia page: http://en.wikipedia.org/wiki/Bencode
